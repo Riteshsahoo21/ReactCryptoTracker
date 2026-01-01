@@ -46,16 +46,16 @@ ReactCryptoTracker/
 
 ## 🚀 Getting Started
 
-### 🔹 Clone the repository
+##🔹 Clone the repository
 
 ```bash
 git clone https://github.com/Riteshsahoo21/ReactCryptoTracker.git
 cd ReactCryptoTracker
 
-###🔹 Install dependencies
+##🔹 Install dependencies
 npm install
 
-###🔹 Run the project locally
+##🔹 Run the project locally
 npm run dev
 
 
