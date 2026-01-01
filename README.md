@@ -52,14 +52,14 @@ ReactCryptoTracker/
 git clone https://github.com/Riteshsahoo21/ReactCryptoTracker.git
 cd ReactCryptoTracker
 
-🔹 Install dependencies
+###🔹 Install dependencies
 npm install
 
-🔹 Run the project locally
+###🔹 Run the project locally
 npm run dev
 
 
-Open your browser and visit:
+##Open your browser and visit:
 http://localhost:5173
 
 
