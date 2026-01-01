@@ -26,6 +26,22 @@ A **Cryptocurrency Price Tracker** built using **React.js**, **Vite**, and the *
 
 ---
 
+ ## Live demo
+
+  - https://riteshsahoo21.github.io/ReactCryptoTracker/
+
+ ## Snapshots
+
+ - <img width="1871" height="996" alt="cp1" src="https://github.com/user-attachments/assets/05f5d25b-d4f7-4e65-9dc9-6d97b67fc352" />
+ - <img width="1903" height="1006" alt="cp2" src="https://github.com/user-attachments/assets/d883aa1f-badc-4239-964c-a7ca779ed17a" />
+ - <img width="1854" height="962" alt="cp3" src="https://github.com/user-attachments/assets/9fb57d82-875d-429c-ad96-a88e23b8543a" />
+
+ ---
+
+
+ 
+
+
 ## 📁 Project Structure
 
 ```txt
